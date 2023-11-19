@@ -1,0 +1,2 @@
+class ExceptionTamanhoDocumentoExcedido(Exception):
+    pass

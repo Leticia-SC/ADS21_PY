@@ -1,0 +1,2 @@
+class ExceptionDocumentoVazio(Exception):
+    pass
